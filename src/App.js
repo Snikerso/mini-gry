@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>Mój paragraf coś tam</p>
       
+      <p>Mój paragraf p- paragraf</p>
     </div>
   );
 }
